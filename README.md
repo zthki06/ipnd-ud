@@ -1,5 +1,3 @@
-## Overview
-The IPND at Udacity is a self-paced program that covers fundamental concepts in programming using Python. 
 
 ## Projects
 - Animal Trading Cards
